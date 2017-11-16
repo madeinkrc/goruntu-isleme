@@ -1,5 +1,5 @@
 # goruntu-isleme
-Bu depoda görüntü işleme dersiyle ilgili bir takım kodlamalar bulunmaktadır.
+Bu depoda görüntü işleme dersiyle ilgili bir takım kodlamalar bulunmaktadır.<br>
 <b>NOT</b>
 Bu depoda olan ödevler verilen süre içerisinde yapılmıştır.<br>
 Daha önce google drive de bulunan ödevler kolay kontrol edilebilmesi için github deposuna yüklenmiştir.<br>
